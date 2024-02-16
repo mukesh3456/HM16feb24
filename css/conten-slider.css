@@ -1,0 +1,171 @@
+.paragraph-container {
+    position: relative;
+    height: 110px; /* Set a fixed height for smooth sliding */
+    overflow: hidden;
+  }
+  
+  .slide-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .slide-content.active {
+    opacity: 1;
+  }
+
+
+/*slider content 2*/
+  .slide-content1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .slide-content1.active1 {
+    opacity: 1;
+  }
+
+
+/*slider content 3*/
+  .slide-content2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .slide-content2.active2 {
+    opacity: 1;
+  }
+
+/*slider content 4*/
+  .slide-content3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .slide-content3.active3 {
+    opacity: 1;
+  }
+
+/*slider content 5*/
+  .slide-content4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .slide-content4.active4 {
+    opacity: 1;
+  }
+
+/*slider content 6*/
+  .slide-content5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .slide-content5.active5 {
+    opacity: 1;
+  }
+
+
+/*slider content 7*/
+  .slide-content6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.6s ease;
+  }
+  
+  .slide-content6.active6 {
+    opacity: 1;
+  }
+
+/*slider content 8*/
+  .slide-content7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.7s ease;
+  }
+  
+  .slide-content7.active7 {
+    opacity: 1;
+  }
+
+
+/*slider content 8*/
+  .slide-content8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.7s ease;
+  }
+  
+  .slide-content8.active8 {
+    opacity: 1;
+  }
+
+
+/*slider content 9*/
+  .slide-content9 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.7s ease;
+  }
+  
+  .slide-content9.active9 {
+    opacity: 1;
+  }
+
+
+/*slider content 9*/
+  .slide-content10 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.7s ease;
+  }
+  
+  .slide-content10.active10 {
+    opacity: 1;
+  }
+
+
+
+
+
+
+

@@ -1,0 +1,163 @@
+.reasons{
+	font-size:20px; font-weight: 600; color: #777; margin-bottom: 0px;
+}
+
+.address{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #000;
+    margin-bottom: 30px
+}
+.sx-title{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #000;
+    margin-bottom: 30px;
+}
+.guarantee{
+	font-size: 16px;
+	font-family: 'DM Sans', sans-serif;
+	color: #777;
+}
+.awards{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 15px;
+}
+.sx-tilte{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #000;
+    margin-bottom: 30px;
+}
+.listing{
+	font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #777;
+}
+.sx-title-two{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #000;
+}
+.m-t0{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #000;
+    margin-bottom: 30px;
+}
+.@media only screen and (max-width: 991px){
+.responsive-banner {
+    font-size: 15px !important;
+    display: flex;
+    margin-right: 160px;
+}
+}
+.traditionally{
+	font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 10px;
+}
+.res-home-1 {
+		
+	    height: 79% !important;
+	    position: absolute;
+	    z-index: 1;
+	    left: 0px;
+	    top: 0px;
+	    right: 0px;
+	    bottom: 0px;
+}
+.award{
+    color: black !important;
+}
+.tom-cruise{
+    height: 84% !important;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+.tony-stark{
+     height: 80% !important;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+.dakiya{
+    height: 90% !important;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+.text-right{
+    font-size: 50px !important;
+}
+.audience{
+    height: 76% !important;
+    
+}
+.footage{
+    height: 73% !important;
+    
+}
+.influencers{
+    height: 85% !important;
+    
+}
+.audiences{
+    height: 108% !important;
+    
+}
+.safeguarding {
+    height: 85% !important;
+    
+}
+.magicals{
+    height: 64% !important;
+    
+}
+.magicals1{
+    height: 43% !important;
+    
+}
+.magicals2{
+    height: 91% !important;
+    
+}
+.lease{
+    height: 115% !important;
+    
+}
+
+.post-title{
+        text-align: center;
+        font-size: 27px;
+        font-weight: 600 !important;
+}
+
+.blog-h{
+    font-size: 21px;
+    font-weight: 500 !important;
+    margin-bottom: 10px !important;
+    font-family: 'DM Sans', sans-serif !important;
+}
